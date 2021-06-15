@@ -1,0 +1,24 @@
+{
+  "name": "muber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterMoDavis/muber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterMoDavis/muber/issues"
+  },
+  "homepage": "https://github.com/PeterMoDavis/muber#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^9.0.0",
+    "mongoose": "^5.12.13"
+  }
+}
